@@ -40,12 +40,7 @@ Desenvolvedor de Software focado no ecossistema **Backend e Full Stack**, com ex
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=ErikGiuseppe&show_icons=true&hide_border=true&title_color=1260cc&icon_color=1260cc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErikGiuseppe&layout=compact&hide_border=true&title_color=1260cc&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErikGiuseppe&theme=2077" alt="Detalhes do perfil" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErikGiuseppe&theme=2077" alt="Linguagens mais commitadas" />
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErikGiuseppe&theme=dracula&row=1&no-bg=true&column=6&margin-w=10&margin-h=10" />
-</p>
